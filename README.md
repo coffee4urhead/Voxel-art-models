@@ -15,3 +15,7 @@ These will be featured in upcoming games and other artwork that is directly crea
 
 ---[The idea for the project is inspired by the greek era architectural style for temples for the olympic gods]---
 ---[It took 2 weeks to set up and fully prepare with the nature around too]---
+
+### Project #4 Planaria World ###
+---[This voxel model is created using another program called world painter for the mountains and the river]---
+---[It took around 4 days to fully complete]---
