@@ -19,3 +19,7 @@ These will be featured in upcoming games and other artwork that is directly crea
 ### Project #4 Planaria World ###
 ---[This voxel model is created using another program called world painter for the mountains and the river]---
 ---[It took around 4 days to fully complete]---
+
+### Project #5 Racecar on Track ###
+---[This is a voxel imitation of a real world formula 1 racecar]---
+---[It took 3 days to complete]---
